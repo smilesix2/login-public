@@ -1,0 +1,288 @@
+@media only screen and (min-width: 1921px) {
+	input {
+		font-size: 20px;
+	}
+
+	.content {
+		height: 90%;
+	}
+
+	.form {
+		left: 10%;
+		width: 80%;
+	}
+
+	.left {
+		top: 10%;
+		left: 0;
+		width: 60%;
+		height: 80%;
+	}
+
+	.ball-wrap {
+		width: 750px;
+		height: 665px;
+	}
+
+	.right {
+		top: 10%;
+		right: 0;
+		width: 40%;
+		height: 80%;
+	}
+
+	.form-content {
+		width: 510px;
+		height: 560px;
+	}
+
+	.form-content li {
+		width: 380px;
+	}
+
+	.form-content .tit {
+		margin: 50px auto;
+		font-size: 24px;
+	}
+
+	.form-content .text {
+		margin-bottom: 30px;
+		height: 60px;
+	}
+
+	.form-content .text.user input {
+		background: #fff url(../img/user.png) 20px center no-repeat;
+		background-size: 17px 22px;
+		text-indent: 54px;
+	}
+
+	.form-content .text.pwd input {
+		background: #fff url(../img/pwd.png) 20px center no-repeat;
+		background-size: 17px 22px;
+		text-indent: 54px;
+	}
+
+	.form-content .text.code input {
+		width: 50%;
+		text-indent: 20px;
+	}
+
+	.form-content .text.code .codeText {
+		width: 45%;
+		line-height: 60px;
+		font-size: 36px;
+	}
+
+	.form-content .text.btn {
+		line-height: 60px;
+		font-size: 24px;
+		letter-spacing: 4px;
+	}
+
+	.form-content .remember label {
+		height: 20px;
+		line-height: 20px;
+	}
+
+	.form-content .remember div {
+		margin-right: 10px;
+		width: 20px;
+		height: 20px;
+	}
+
+	.form-content .remember {
+		margin-bottom: 26px;
+	}
+
+
+}
+
+@media only screen and (max-width: 1920px) {
+	input {
+		font-size: 14px;
+	}
+
+	.content {
+		height: 90%;
+	}
+
+	.form {
+		left: 10%;
+		width: 80%;
+	}
+
+	.left {
+		top: 10%;
+		left: 0;
+		width: 60%;
+		height: 80%;
+	}
+
+	.ball-wrap {
+    width: 796px;
+    height: 704px;
+	}
+
+	.right {
+		top: 10%;
+		right: 0;
+		width: 40%;
+		height: 80%;
+		width: 400px;
+    right: 14%;
+	}
+
+	.form-content {
+		width: 400px;
+		height: auto;
+		padding-bottom: 76px;
+	}
+
+	.form-content li {
+		width: 304px;
+	}
+
+	.form-content .tit {
+		margin: 60px auto 40px;
+		font-size: 24px;
+	}
+
+	.form-content .text {
+		margin-bottom: 32px;
+		height: 44px;
+	}
+
+	.form-content .text.user input {
+		background: #fff url(../img/user.png) 20px center no-repeat;
+		background-size: 17px 22px;
+		text-indent: 54px;
+	}
+
+	.form-content .text.pwd input {
+		background: #fff url(../img/pwd.png) 20px center no-repeat;
+		background-size: 17px 22px;
+		text-indent: 54px;
+	}
+
+	.form-content .text.code input {
+		width: 50%;
+		text-indent: 20px;
+	}
+
+	.form-content .text.code .codeText {
+		width: 45%;
+		line-height: 60px;
+		font-size: 36px;
+	}
+
+	.form-content .text.btn {
+		line-height: 44px;
+		font-size: 22px;
+		letter-spacing: 4px;
+		margin-bottom: 0;
+	}
+
+	.form-content .remember label {
+		height: 14px;
+    line-height: 13px;
+	}
+
+	.form-content .remember div {
+		margin-right: 4px;
+		width: 14px;
+		height: 14px;
+	}
+	.form-content .remember span{
+		font-size: 12px;
+	}
+	.form-content .remember {
+		margin-bottom: 26px;
+	}
+	.form-content .text .error{
+		top: 44px;
+	}
+	.form-content .text .error .mes{
+		font-size: 12px;
+	}
+
+}
+
+@media only screen and (max-width: 1880px) {
+	.ball-wrap,
+	.ball {
+		width: 823px;
+		height: 729px;
+	}
+	.light-scale {
+    top: 179px;
+    left: 180px;
+	}
+}
+
+@media screen and (max-width: 1600px) {
+	.ball-wrap,
+	.ball {
+		width: 704px;
+		height: 623px;
+	}
+
+	.light-scale {
+		top: 120px;
+		left: 109px;
+	}
+}
+
+@media screen and (max-width: 1440px) {
+	.ball-wrap,
+	.ball {
+		width: 704px;
+		height: 623px;
+	}
+
+	.light-scale {
+		top: 120px;
+		left: 109px;
+	}
+	
+}
+
+
+@media screen and (max-width: 1360px) {
+	.ball-wrap,
+	.ball {
+		width: 562px;
+		height: 497px;
+	}
+
+	.light-scale {
+		top: 44px;
+		left: 27px;
+	}
+
+}
+
+@media only screen and (max-width: 1238px) {
+	.ball-wrap,
+	.ball {
+    width: 469px;
+    height: 415px;
+	}
+	.light-scale {
+    top: -13px;
+    left: -22px;
+	}
+
+}
+
+@media screen and (max-height:700px){
+	.ball-wrap,
+	.ball {
+    width: 469px;
+    height: 415px;
+	}
+	.light-scale {
+    top: -13px;
+    left: -22px;
+	}
+}
+
